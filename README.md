@@ -1,2 +1,2 @@
-<h3>hava durumu projesi</h3>
-<p>hava durumunu aldım dönüştürdüm ve ekrana sundum </p>
+<h3>weather project</h3>
+<p>I took the weather forecast from the API, converted it and presented it to the screen. </p>
